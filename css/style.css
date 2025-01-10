@@ -154,17 +154,17 @@ h6 {
     width: 200px;
     height: 150px;
     /* Se desejar manter a centralização horizontal */
-    /* margin-left: auto;
-    margin-right: auto; */
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 #fotoPKcel{
-    width: 160px;
+    width: 300px;
     /* Se desejar manter a centralização horizontal */
-    /* margin-left: auto;
-    margin-right: auto; */
+    margin-left: auto;
+    margin-right: auto; 
     border-radius: 50%;
-    margin-left: 10px;
+    /*margin-left: 10px;*/
 }
 #fotoPK{
   display: none;
