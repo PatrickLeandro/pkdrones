@@ -8,6 +8,10 @@
   display: none;
 }
 
+#empresas{
+  width: 100%;
+}
+
 #wpp-icon {
   position: fixed;
   bottom: 20px; /* Ajusta a distância do fundo da tela */
@@ -27,7 +31,7 @@
     display: none; /* Esconde em telas com largura máxima de 960px */
   }
  
-  .videocel {
+  #um {
     display: block; /* Aparece em telas com largura máxima de 960px */
   }
 }
