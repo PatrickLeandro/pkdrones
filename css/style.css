@@ -4,6 +4,9 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+.videocel{
+  display: none;
+}
 
 @media screen and (max-width: 960px) {
   .videopc {
