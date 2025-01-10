@@ -4,7 +4,7 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
-.videocel{
+#um{
   display: none;
 }
 
@@ -28,7 +28,7 @@
   }
  
   .videocel {
-    display: block; /* Esconde em telas com largura máxima de 960px */
+    display: block; /* Aparece em telas com largura máxima de 960px */
   }
 }
 
