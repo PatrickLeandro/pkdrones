@@ -45,7 +45,8 @@ a {
 
 #logoPK {
     width: 400px;
-    height: 300px;
+    height: 400px;
+    border-radius: 50%;
 }
 
 .link:hover {
@@ -138,8 +139,8 @@ h6 {
   
   #logoPK {
     display: none;
-    border-radius: 50%;
   }
+  
   #job{
     margin-top: 60px;
   }
