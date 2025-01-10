@@ -19,7 +19,7 @@
   right: 20px;  /* Ajusta a distância da lateral direita */
   z-index: 1000; /* Garante que o ícone ficará acima de outros elementos */
   width: 50px; /* Ajuste o tamanho da imagem conforme necessário */
-  height: 50px; /* Ajuste a altura da imagem conforme necessário */
+  /* height: 50px;  Ajuste a altura da imagem conforme necessário */
   cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
 
