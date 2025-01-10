@@ -9,6 +9,10 @@
   .videopc {
     display: none; /* Esconde em telas com largura máxima de 960px */
   }
+ 
+  .videocel {
+    display: block; /* Esconde em telas com largura máxima de 960px */
+  }
 }
 
 .color-gray {
