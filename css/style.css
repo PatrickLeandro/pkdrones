@@ -137,7 +137,8 @@ h6 {
   }
   
   #logoPK {
-  display: none;
+    display: none;
+    border-radius: 50%;
   }
   #job{
     margin-top: 60px;
