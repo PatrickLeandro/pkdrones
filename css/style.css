@@ -34,6 +34,7 @@
  
   #um {
     display: block; /* Aparece em telas com largura máxima de 960px */
+	margin-top: 80px;
   }
 }
 
