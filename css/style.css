@@ -8,6 +8,20 @@
   display: none;
 }
 
+#wpp-icon {
+  position: fixed;
+  bottom: 20px; /* Ajusta a distância do fundo da tela */
+  right: 20px;  /* Ajusta a distância da lateral direita */
+  z-index: 1000; /* Garante que o ícone ficará acima de outros elementos */
+  width: 50px; /* Ajuste o tamanho da imagem conforme necessário */
+  height: 50px; /* Ajuste a altura da imagem conforme necessário */
+  cursor: pointer; /* Muda o cursor para indicar que é clicável */
+}
+
+#wpp-icon:hover {
+  opacity: 0.8; /* Efeito de opacidade para quando o mouse passa sobre a imagem */
+}
+
 @media screen and (max-width: 960px) {
   .videopc {
     display: none; /* Esconde em telas com largura máxima de 960px */
