@@ -22,6 +22,11 @@
         
     }
     
+document.addEventListener('DOMContentLoaded', () => {
+    const videoIframe = document.getElementById('id_do_iframe');
+    const videoSrc = videoIframe.getAttribute('src');
+    videoIframe.setAttribute('src', videoSrc + '&autoplay=1&mute=1');
+});
 
 
         document.addEventListener('DOMContentLoaded', () => {
