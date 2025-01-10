@@ -5,6 +5,12 @@
           box-sizing: border-box;
 }
 
+@media screen and (max-width: 960px) {
+  .videopc {
+    display: none; /* Esconde em telas com largura máxima de 960px */
+  }
+}
+
 .color-gray {
   color: #777;
 }
@@ -177,14 +183,12 @@ h6 {
   display: none;
 }
 
-.videopc{
-  display: none;
-}
-
 
 
 
 }
+
+
 #fotoPK{
   width: 500px;
 }
@@ -916,9 +920,6 @@ body {
 
 .relative {
   position: relative;
-}
-.videopc{
-  display: none;
 }
 
 @media screen and (max-width: 960px) {
